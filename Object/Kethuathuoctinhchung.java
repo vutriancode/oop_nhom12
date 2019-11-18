@@ -1,7 +1,7 @@
 public class Kethuathuoctinhchung {
-	private String dinhDanh;
-	private String nhan;
-	private String moTa;
+	String dinhDanh;
+	String nhan;
+	String moTa;
 	public String getDinhDanh() {
 		return dinhDanh;
 	}
