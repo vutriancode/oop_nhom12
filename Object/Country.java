@@ -1,5 +1,5 @@
 
-public class Country {
+public class Country extends Kethuathuoctinhchung{
 	
 public Country(String dinhDanh,String nhan,String moTa) {
 	super();
