@@ -1,33 +1,9 @@
-public class Organization {
-	private String dinhDanh;
-	private String nhan;
-	private String moTa;
-	
-	public Organization() {
+public class Organization extends Kethuathuoctinhchung{
+	public Organization (String dinhDanh,String nhan,String moTa) {
+		super();
+		this.dinhDanh=dinhDanh;
+		this.nhan=nhan;
+		this.moTa=moTa;
 		
-	}
-	
-	public String getDinhDanh() {
-		return dinhDanh;
-	}
-	
-	public void setDinhDanh(String dinhDanh) {
-		this.dinhDanh = dinhDanh;
-	}
-	
-	public String getNhan() {
-		return nhan;
-	}
-	
-	public void setNhan(String nhan) {
-		this.nhan = nhan;
-	}
-	
-	public String getMoTa() {
-		return moTa;
-	}
-	
-	public void setMoTa(String moTa) {
-		this.moTa = moTa;
 	}
 }
