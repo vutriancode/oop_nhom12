@@ -1,4 +1,4 @@
-public class Location extends Kethuathuoctinhchung{
+public class Location extends Object{
 	public String quocGia;
 	
 	public Location (String dinhDanh,String nhan,String moTa) {
