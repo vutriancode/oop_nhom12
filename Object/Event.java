@@ -1,4 +1,4 @@
-public class Event extends Kethuathuoctinhchung {
+public class Event extends Object {
 	public Event(String dinhDanh,String nhan,String moTa) {
 	super();
 	this.dinhDanh=dinhDanh;
