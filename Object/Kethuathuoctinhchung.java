@@ -1,4 +1,4 @@
-public class Kethuathuoctinhchung {
+public class Object {
 	String dinhDanh;
 	String nhan;
 	String moTa;
