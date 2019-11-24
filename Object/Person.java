@@ -1,4 +1,4 @@
-public class Person extends Object{
+public class Person extends Thucthe{
 	public String chucvu;
 	
 	public Person (String dinhDanh,String nhan,String moTa) {
