@@ -1,4 +1,12 @@
+public class RelationPhandoi extends Relation {
+	public String ten ;
 
-public class RelationPhandoi {
+	public String getTen() {
+		return ten;
+	}
+
+	public void setTen(String ten) {
+		this.ten = ten;
+	} 
 
 }
