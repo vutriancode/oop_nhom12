@@ -1,4 +1,4 @@
-public class Object {
+public class Thucthe {
 	String dinhDanh;
 	String nhan;
 	String moTa;
