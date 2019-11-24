@@ -1,4 +1,4 @@
-public class Organization extends Kethuathuoctinhchung{
+public class Organization extends Object{
 	public String truSo;
 	public Organization (String dinhDanh,String nhan,String moTa) {
 		super();
