@@ -1,4 +1,13 @@
+public class RelationThamgia extends Relation {
+	public String ten ;
 
-public class RelationThamgia {
+	public String getTen() {
+		return ten;
+	}
+
+	public void setTen(String ten) {
+		this.ten = ten;
+	} 
+
 
 }
