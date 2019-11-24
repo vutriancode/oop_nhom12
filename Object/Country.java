@@ -1,5 +1,5 @@
 
-public class Country extends Kethuathuoctinhchung {
+public class Country extends Object {
 	public String chauLuc;
 	
 
