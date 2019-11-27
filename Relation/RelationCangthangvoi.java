@@ -1,4 +1,14 @@
+public class RelationCangthangvoi extends Relation {
+	public String ten ;
 
-public class RelationCangthangvoi {
+	public String getTen() {
+		return ten;
+	}
+
+	public void setTen(String ten) {
+		this.ten = ten;
+	} 
+	
+	
 
 }

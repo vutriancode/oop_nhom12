@@ -1,4 +1,4 @@
-public class Aggrement extends Kethuathuoctinhchung{
+public class Aggrement extends Thucthe {
 public Aggrement(String dinhDanh,String nhan,String moTa) {
 	super();
 	this.dinhDanh=dinhDanh;

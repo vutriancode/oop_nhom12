@@ -1,4 +1,12 @@
+public class RelationGapgo extends Relation {
+	public String ten ;
 
-public class RelationGapgo {
+	public String getTen() {
+		return ten;
+	}
+
+	public void setTen(String ten) {
+		this.ten = ten;
+	} 
 
 }
