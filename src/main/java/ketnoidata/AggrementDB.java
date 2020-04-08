@@ -17,5 +17,6 @@ public class AggrementDB{
 	    result.setProperty("nhanHienThi", e.getNhanHienThi());
 	    result.save();
 	    arrayAggrement.add(result);
+	    System.out.printl("hello world");
 
 	}}
